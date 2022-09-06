@@ -7,10 +7,20 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
  * Variables
+  una variable se puede configurar (y restablecer) a cualquier tipo, no necesitamos declarar su tipo al iniciar la variable).
+
  * Strings
+ Cualquier texto entre comillas es una cadena o string.
+
  * Funciones (argumentos, `return`)
+ Són tipos particulares de objetos, llamados ***callable objects*** u objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto.
+
  * Declaraciones `if`
+ la función  'if' permiten ingresar un mensaje específico en su anuncio de texto cuando se cumple una determinada condición y un texto predeterminado cuando esta condición no se cumple.
+
  * Valores booleanos (`true`, `false`)
+ verifica  si la declaración es `true` (`22>18`), lo es, por lo que devolveremos `true`, y la función se detendrá. Si no es así, omitirá ese código y la función devolverá `false`.
+
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
